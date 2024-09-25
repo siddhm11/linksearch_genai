@@ -1,5 +1,9 @@
 # linksearch_genai
 this code uses groq's integrated llm where the user can input multiple links and the data is split into chunks and only the related chunks are sent through groq
+
+![image](https://github.com/user-attachments/assets/74a78bf2-c1ed-42ab-b95e-8fe2b09b9069)
+
+
 ![Screenshot 2024-09-25 105435](https://github.com/user-attachments/assets/98f348e1-b2d0-4d23-883f-16e318f7a1c7)
 
 ![image](https://github.com/user-attachments/assets/0ba42851-6583-49ed-be06-b88e3c6846e7)
