@@ -1,6 +1,4 @@
 # linksearch_genai
-Here's a README file template for your GitHub repository:
-
 ---
 
 # Data Related Query Retriever
@@ -102,7 +100,6 @@ This project is licensed under the MIT License.
 
 ---
 
-Feel free to modify this template according to your project specifics!
 ![image](https://github.com/user-attachments/assets/74a78bf2-c1ed-42ab-b95e-8fe2b09b9069)
 
 
